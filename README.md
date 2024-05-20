@@ -12,7 +12,7 @@
 - ユーザが "exit" と入力すると終了する．
 
 ## 実行した時の様子
-![shell](https://github.com/Nanana22mm/myportfolio/assets/126635893/7d3733c5-d51f-408d-b89b-8a3c83e439e2)
+![shell](https://github.com/Nanana22mm/myshell/assets/126635893/ad37c426-143f-4871-9ca8-495bf56a6adf)
 
 ## 反省
 - 時間の都合上，＋αの機能，例えば入力の補完機能や予測，ヒストリの管理などの機能を追加することができなかった．
